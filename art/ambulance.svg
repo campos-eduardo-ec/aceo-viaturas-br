@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1893" height="694" viewBox="0 0 1893 694"><defs>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#abb3b7"/><stop offset=".15" stop-color="#fbfcfc"/><stop offset=".5" stop-color="#fff"/><stop offset=".85" stop-color="#e4e8e9"/><stop offset="1" stop-color="#a8b0b5"/></linearGradient>
+<linearGradient id="glass"><stop stop-color="#152a37"/><stop offset=".5" stop-color="#3b5464"/><stop offset="1" stop-color="#1a2f3c"/></linearGradient></defs>
+<g fill="#171d22"><rect x="265" y="16" width="230" height="70" rx="20"/><rect x="265" y="608" width="230" height="70" rx="20"/><rect x="1430" y="16" width="230" height="70" rx="20"/><rect x="1430" y="608" width="230" height="70" rx="20"/></g>
+<path d="M60 30Q14 30 14 110V584Q14 664 60 664H1130L1210 620H1700Q1875 610 1880 475V220Q1875 84 1700 74H1210L1130 30Z" fill="url(#body)" stroke="#6a7781" stroke-width="6"/>
+<path d="M80 65H1130M80 629H1130" stroke="#c73137" stroke-width="35"/>
+<path d="M1390 100Q1455 347 1390 594L1590 594Q1670 347 1590 100Z" fill="url(#glass)" stroke="#131f2b" stroke-width="9"/>
+<path d="M1205 75L1365 99L1360 146H1215Z M1205 620L1365 595L1360 548H1215Z" fill="#274555" stroke="#151e25" stroke-width="6"/>
+<path d="M1220 76L1320 15L1350 19L1315 76 M1220 619L1320 679L1350 675L1315 619" fill="#202d36"/>
+<g stroke="#c2c9cc" stroke-width="5"><path d="M100 180H1080M100 250H1080M100 445H1080M100 515H1080"/><rect x="140" y="120" width="930" height="454" rx="24" fill="none"/></g>
+<rect x="1143" y="109" width="23" height="476" rx="8" fill="#34414a"/>
+<g fill="#cb252d" stroke="#fe8080" stroke-width="3"><rect x="1147" y="115" width="16" height="142" rx="4"/><rect x="1147" y="437" width="16" height="142" rx="4"/><rect x="1226" y="136" width="130" height="38" rx="12"/><rect x="1226" y="520" width="130" height="38" rx="12"/></g>
+<g fill="#f8edd3" stroke="#72858a" stroke-width="3"><path d="M1750 95L1845 170L1858 210L1760 144Z"/><path d="M1750 599L1845 524L1858 484L1760 550Z"/></g>
+<path d="M1864 248V446" stroke="#35404a" stroke-width="15"/>
+<g transform="translate(420 347)" fill="#225a91"><rect x="-25" y="-100" width="50" height="200"/><rect x="-25" y="-100" width="50" height="200" transform="rotate(60)"/><rect x="-25" y="-100" width="50" height="200" transform="rotate(120)"/><path d="M0 -66V66M-13 -45Q40 -24 0 0Q-35 20 13 44" fill="none" stroke="#fff" stroke-width="9"/></g>
+<text x="800" y="325" text-anchor="middle" fill="#a92931" font-family="Arial" font-weight="bold" font-size="73" transform="rotate(0 800 325)">RESGATE</text><text x="800" y="398" text-anchor="middle" fill="#2c485c" font-family="Arial" font-weight="bold" font-size="35" transform="rotate(0 800 398)">AEROPORTUÁRIO</text><text x="1710" y="347" text-anchor="middle" fill="#b12c35" font-family="Arial" font-weight="bold" font-size="34" transform="rotate(90 1710 347)">AMBULÂNCIA</text></svg>
